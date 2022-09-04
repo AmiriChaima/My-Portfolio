@@ -1,6 +1,6 @@
 
 .main-nav{
-    @apply bg-purple-500 bg-fixed shadow-md bg-cover p-3 mr-8 ml-8 mt-3 hover:bg-pink-500 rounded ;
+    @apply bg-purple-500 bg-fixed shadow-md bg-cover p-3  hover:bg-pink-500 rounded ;
 }
 
 .nav-bar{

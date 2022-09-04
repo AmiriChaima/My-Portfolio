@@ -1,5 +1,5 @@
 .main{
-    @apply flex flex-row sm:flex-wrap-reverse items-center justify-between mr-4 ml-4 md:flex-wrap bg-slate-100  max-w-full min-h-screen 
+    @apply flex flex-row sm:flex-wrap-reverse items-center justify-between md:flex-wrap bg-slate-100  max-w-full min-h-screen 
 }
 
 .right{
