@@ -1,0 +1,29 @@
+
+
+.main-nav{
+    @apply bg-purple-500 bg-fixed shadow-md bg-cover p-3 mr-8 ml-8 mt-3 hover:bg-pink-500 rounded ;
+}
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+}
+
+.nav-element {
+    display: flex;
+    flex-wrap: wrap;
+   
+     
+}
+.link{
+    
+    margin-right: 2rem;
+    text-decoration: none;
+    text-align: center;
+    color: whitesmoke;
+    font-family: Poppins,sans-serif;
+    font-size:medium;
+    
+}

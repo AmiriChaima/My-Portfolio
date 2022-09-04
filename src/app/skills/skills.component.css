@@ -1,0 +1,37 @@
+.container{
+    @apply max-w-full min-h-screen p-10 
+}
+.nom{
+    @apply font-alumini  text-5xl text-center md:text-6xl
+}
+
+.card-container{
+    @apply flex  flex-wrap justify-center md:mt-12
+}
+
+.card{
+    @apply flex flex-col bg-white rounded-lg shadow-md overflow-hidden w-full m-6 sm:w-64 
+}
+
+.main{
+
+@apply flex flex-row justify-center sm:flex-wrap
+}
+
+
+
+
+.img {
+    @apply h-12 m-6 
+}
+.text{
+    @apply text-center px-2 pb-5 
+}
+
+.skills{
+    @apply bg-pink-700 hover:bg-blue-700 transition-all duration-500
+}
+
+h3{
+    @apply text-white text-center p-3 font-nunito font-bold
+}
