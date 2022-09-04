@@ -10,7 +10,7 @@ import { SkillsComponent } from './skills/skills.component';
 import { EducationComponent } from './education/education.component';
 import { ProjectComponent } from './project/project.component';
 import { ContactComponent } from './contact/contact.component';
-import { FooterComponent } from './footer/footer.component';
+
 import { Form, FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 
@@ -24,8 +24,7 @@ import { Form, FormsModule, ReactiveFormsModule } from '@angular/forms';
     SkillsComponent,
     EducationComponent,
     ProjectComponent,
-    ContactComponent,
-    FooterComponent
+    ContactComponent
   ],
   imports: [
     BrowserModule,
